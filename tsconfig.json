@@ -7,7 +7,7 @@
       "@/*": ["./src/*"]
     }
   },
-
+  "strictNullChecks": true,
   "references": [
     {
       "path": "./tsconfig.vite-config.json"
